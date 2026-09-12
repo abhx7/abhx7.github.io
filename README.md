@@ -6,7 +6,7 @@
 - Build the website:
 ```bash
   npm run build
-  - Upload/push the contents of dist/ to the root of the GitHub repository (main branch).
+  - Upload/push the contents of dist/ to the root of the GitHub repository (atleast index.html and assets folder if not all).
   - GitHub Pages serves the files from main → / (root).
   - Do not upload the dist folder itself — upload its contents.
 ```
